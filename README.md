@@ -25,7 +25,6 @@
     />
     </samp>
   </p>
-  <br>
 </div>
 
 <details>
